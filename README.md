@@ -61,119 +61,92 @@ Building clean, scalable, and user-friendly mobile applications with Flutter & D
 </p>
 
 ---
-#<h2>📌 Featured Projects</h2>
+## 📌 Featured Projects
+
+---
+
+<div style="display: flex; align-items: center; gap: 30px; margin-bottom: 40px;">
+  <div style="flex: 0 0 250px; text-align: center;">
+    <div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); border-radius: 20px; padding: 30px; box-shadow: 0 10px 30px rgba(0,0,0,0.3);">
+      <div style="font-size: 80px;">📰</div>
+      <div style="margin-top: 15px;">
+        <span style="background: #333; color: #fff; padding: 8px 16px; border-radius: 6px; display: inline-block; margin: 5px; font-weight: bold;">APP</span>
+        <span style="background: #FF9500; color: #fff; padding: 8px 16px; border-radius: 6px; display: inline-block; margin: 5px; font-weight: bold;">NEWS</span>
+      </div>
+    </div>
+  </div>
+
+  <div style="flex: 1;">
+    <h3>📰 News App — News Reader App</h3>
+    
+    <p>A Flutter news application built with a scalable Clean Architecture, REST API integration, and local data persistence.</p>
+    
+    <h4>✨ Key Contributions</h4>
+    
+    <ul>
+      <li>🏗️ <b>Architecture:</b> Implemented Clean Architecture with Domain, Data, and Presentation layers.</li>
+      <li>🌐 <b>Networking:</b> Integrated REST APIs using Dio with structured error handling.</li>
+      <li>🔄 <b>State Management:</b> Used Cubit to manage loading, success, and error states.</li>
+      <li>💉 <b>Dependency Injection:</b> Implemented GetIt & Injectable for scalable dependency management.</li>
+      <li>💾 <b>Local Storage:</b> Used Hive and SharedPreferences for local data persistence.</li>
+      <li>📱 <b>UI:</b> Built responsive and reusable Flutter components.</li>
+    </ul>
+    
+    <h4>🛠️ Tech Stack</h4>
+    <p>
+      <img src="https://img.shields.io/badge/FLUTTER-02569B?style=flat-square&logo=flutter&logoColor=white">
+      <img src="https://img.shields.io/badge/DART-0175C2?style=flat-square&logo=dart&logoColor=white">
+      <img src="https://img.shields.io/badge/BLOC-0175C2?style=flat-square">
+      <img src="https://img.shields.io/badge/DIO-0175C2?style=flat-square">
+      <img src="https://img.shields.io/badge/HIVE-FFCA28?style=flat-square">
+      <img src="https://img.shields.io/badge/GETIT-6C63FF?style=flat-square">
+      <img src="https://img.shields.io/badge/CLEAN_ARCHITECTURE-000000?style=flat-square">
+    </p>
+  </div>
+</div>
 
 <hr>
 
-<h3>📰 News App</h3>
+<div style="display: flex; align-items: center; gap: 30px; margin-bottom: 40px;">
+  <div style="flex: 0 0 250px; text-align: center;">
+    <div style="background: linear-gradient(135deg, #F093FB 0%, #F5576C 100%); border-radius: 20px; padding: 30px; box-shadow: 0 10px 30px rgba(0,0,0,0.3);">
+      <div style="font-size: 80px;">📋</div>
+      <div style="margin-top: 15px;">
+        <span style="background: #333; color: #fff; padding: 8px 16px; border-radius: 6px; display: inline-block; margin: 5px; font-weight: bold;">APP</span>
+        <span style="background: #FFC107; color: #000; padding: 8px 16px; border-radius: 6px; display: inline-block; margin: 5px; font-weight: bold;">EXAMS</span>
+      </div>
+    </div>
+  </div>
 
-<p>
-  A Flutter news application built with a scalable Clean Architecture,
-  REST API integration, and local data persistence.
-</p>
-
-<h4>✨ Key Contributions</h4>
-
-<ul>
-  <li>
-    🏗️ <b>Architecture:</b>
-    Implemented Clean Architecture with Domain, Data, and Presentation layers.
-  </li>
-  <li>
-    🌐 <b>Networking:</b>
-    Integrated REST APIs using Dio with structured error handling.
-  </li>
-  <li>
-    🔄 <b>State Management:</b>
-    Used Cubit to manage loading, success, and error states.
-  </li>
-  <li>
-    💉 <b>Dependency Injection:</b>
-    Implemented GetIt & Injectable for scalable dependency management.
-  </li>
-  <li>
-    💾 <b>Local Storage:</b>
-    Used Hive and SharedPreferences for local data persistence.
-  </li>
-  <li>
-    📱 <b>UI:</b>
-    Built responsive and reusable Flutter components.
-  </li>
-</ul>
-
-<h4>🛠️ Tech Stack</h4>
-
-<p>
-  <img src="https://img.shields.io/badge/FLUTTER-02569B?style=flat-square&logo=flutter&logoColor=white">
-  <img src="https://img.shields.io/badge/DART-0175C2?style=flat-square&logo=dart&logoColor=white">
-  <img src="https://img.shields.io/badge/BLOC-0175C2?style=flat-square">
-  <img src="https://img.shields.io/badge/DIO-0175C2?style=flat-square">
-  <img src="https://img.shields.io/badge/HIVE-FFCA28?style=flat-square">
-  <img src="https://img.shields.io/badge/GETIT-6C63FF?style=flat-square">
-  <img src="https://img.shields.io/badge/CLEAN_ARCHITECTURE-000000?style=flat-square">
-</p>
-
-<hr>
-
-<h3>📝 Online Exam App</h3>
-
-<p>
-  A feature-rich Flutter application for taking online exams,
-  managing questions and answers, submitting exams, and displaying
-  results and history.
-</p>
-
-<h4>✨ Key Contributions</h4>
-
-<ul>
-  <li>
-    🏗️ <b>Architecture:</b>
-    Implemented Clean Architecture with Domain, Data, and Presentation layers.
-  </li>
-  <li>
-    🌐 <b>API Integration:</b>
-    Integrated exam APIs using Dio & Retrofit.
-  </li>
-  <li>
-    🔄 <b>State Management:</b>
-    Used Cubit to manage subjects, exams, questions, results, and history.
-  </li>
-  <li>
-    💉 <b>Dependency Injection:</b>
-    Used GetIt & Injectable for dependency management.
-  </li>
-  <li>
-    ⏱️ <b>Exam Flow:</b>
-    Implemented timed exams with question navigation and answer selection.
-  </li>
-  <li>
-    💾 <b>Local Storage:</b>
-    Used Hive to save exam questions and user answers.
-  </li>
-  <li>
-    📊 <b>Results & History:</b>
-    Implemented answer checking, scoring, results, and exam history.
-  </li>
-  <li>
-    🔐 <b>Authentication:</b>
-    Handled token-based authentication and protected API requests.
-  </li>
-</ul>
-
-<h4>🛠️ Tech Stack</h4>
-
-<p>
-  <img src="https://img.shields.io/badge/FLUTTER-02569B?style=flat-square&logo=flutter&logoColor=white">
-  <img src="https://img.shields.io/badge/DART-0175C2?style=flat-square&logo=dart&logoColor=white">
-  <img src="https://img.shields.io/badge/BLOC-0175C2?style=flat-square">
-  <img src="https://img.shields.io/badge/DIO-0175C2?style=flat-square">
-  <img src="https://img.shields.io/badge/RETROFIT-000000?style=flat-square">
-  <img src="https://img.shields.io/badge/HIVE-FFCA28?style=flat-square">
-  <img src="https://img.shields.io/badge/GETIT-6C63FF?style=flat-square">
-  <img src="https://img.shields.io/badge/CLEAN_ARCHITECTURE-000000?style=flat-square">
-</p>
-
-<hr>
+  <div style="flex: 1;">
+    <h3>📝 Online Exam App — Exam Taking App</h3>
+    
+    <p>A feature-rich Flutter application for taking online exams, managing questions and answers, submitting exams, and displaying results and history.</p>
+    
+    <h4>✨ Key Contributions</h4>
+    
+    <ul>
+      <li>🏗️ <b>Architecture:</b> Implemented Clean Architecture with Domain, Data, and Presentation layers.</li>
+      <li>🌐 <b>API Integration:</b> Integrated exam APIs using Dio & Retrofit with custom backend.</li>
+      <li>🔄 <b>State Management:</b> Used Cubit to manage subjects, exams, questions, results, and history.</li>
+      <li>💉 <b>Dependency Injection:</b> Used GetIt & Injectable for dependency management.</li>
+      <li>⏱️ <b>Exam Flow:</b> Implemented timed exams with question navigation and answer selection.</li>
+      <li>💾 <b>Local Storage:</b> Used Hive to save exam questions and user answers.</li>
+      <li>📊 <b>Results & History:</b> Implemented answer checking, scoring, results, and exam history.</li>
+      <li>🔐 <b>Authentication:</b> Secure token-based session handling.</li>
+    </ul>
+    
+    <h4>🛠️ Tech Stack</h4>
+    <p>
+      <img src="https://img.shields.io/badge/FLUTTER-02569B?style=flat-square&logo=flutter&logoColor=white">
+      <img src="https://img.shields.io/badge/DART-0175C2?style=flat-square&logo=dart&logoColor=white">
+      <img src="https://img.shields.io/badge/CLEAN_ARCHITECTURE-000000?style=flat-square">
+      <img src="https://img.shields.io/badge/DIO/RETROFIT-0175C2?style=flat-square">
+      <img src="https://img.shields.io/badge/BLOC-0175C2?style=flat-square">
+      <img src="https://img.shields.io/badge/HIVE-FFCA28?style=flat-square">
+    </p>
+  </div>
+</div>
 
 ## 📊 GitHub Stats
 
