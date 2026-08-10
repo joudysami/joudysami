@@ -61,7 +61,6 @@ Building clean, scalable, and user-friendly mobile applications with Flutter & D
 </p>
 
 ---
-
 ## 📌 Featured Projects
 
 <table>
