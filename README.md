@@ -61,55 +61,119 @@ Building clean, scalable, and user-friendly mobile applications with Flutter & D
 </p>
 
 ---
-## 📌 Featured Projects
+#<h2>📌 Featured Projects</h2>
 
-<table>
-<tr>
-<td width="50%">
+<hr>
 
-### 📰 News App
+<h3>📰 News App</h3>
 
-A Flutter news application built with a clean and scalable architecture, consuming REST APIs and providing a smooth user experience.
+<p>
+  A Flutter news application built with a scalable Clean Architecture,
+  REST API integration, and local data persistence.
+</p>
 
-**✨ Key Contributions**
+<h4>✨ Key Contributions</h4>
 
-- 🏗️ **Architecture:** Implemented Clean Architecture with Domain, Data, and Presentation layers.
-- 🌐 **Networking:** Integrated REST APIs using Dio with structured error handling.
-- 🔄 **State Management:** Implemented Cubit for managing loading, success, and error states.
-- 💉 **Dependency Injection:** Used GetIt & Injectable for scalable dependency management.
-- 💾 **Local Storage:** Used Hive and SharedPreferences for local data persistence.
-- 🧪 **Testing:** Applied unit testing concepts for core application logic.
+<ul>
+  <li>
+    🏗️ <b>Architecture:</b>
+    Implemented Clean Architecture with Domain, Data, and Presentation layers.
+  </li>
+  <li>
+    🌐 <b>Networking:</b>
+    Integrated REST APIs using Dio with structured error handling.
+  </li>
+  <li>
+    🔄 <b>State Management:</b>
+    Used Cubit to manage loading, success, and error states.
+  </li>
+  <li>
+    💉 <b>Dependency Injection:</b>
+    Implemented GetIt & Injectable for scalable dependency management.
+  </li>
+  <li>
+    💾 <b>Local Storage:</b>
+    Used Hive and SharedPreferences for local data persistence.
+  </li>
+  <li>
+    📱 <b>UI:</b>
+    Built responsive and reusable Flutter components.
+  </li>
+</ul>
 
-**🛠️ Tech Stack**
+<h4>🛠️ Tech Stack</h4>
 
-`Flutter` `Dart` `BLoC/Cubit` `Dio` `Clean Architecture` `GetIt` `Hive`
+<p>
+  <img src="https://img.shields.io/badge/FLUTTER-02569B?style=flat-square&logo=flutter&logoColor=white">
+  <img src="https://img.shields.io/badge/DART-0175C2?style=flat-square&logo=dart&logoColor=white">
+  <img src="https://img.shields.io/badge/BLOC-0175C2?style=flat-square">
+  <img src="https://img.shields.io/badge/DIO-0175C2?style=flat-square">
+  <img src="https://img.shields.io/badge/HIVE-FFCA28?style=flat-square">
+  <img src="https://img.shields.io/badge/GETIT-6C63FF?style=flat-square">
+  <img src="https://img.shields.io/badge/CLEAN_ARCHITECTURE-000000?style=flat-square">
+</p>
 
-</td>
+<hr>
 
-<td width="50%">
+<h3>📝 Online Exam App</h3>
 
-### 📝 Online Exam App
+<p>
+  A feature-rich Flutter application for taking online exams,
+  managing questions and answers, submitting exams, and displaying
+  results and history.
+</p>
 
-A feature-rich Flutter application for taking online exams, managing questions and answers, submitting exams, and displaying results and history.
+<h4>✨ Key Contributions</h4>
 
-**✨ Key Contributions**
+<ul>
+  <li>
+    🏗️ <b>Architecture:</b>
+    Implemented Clean Architecture with Domain, Data, and Presentation layers.
+  </li>
+  <li>
+    🌐 <b>API Integration:</b>
+    Integrated exam APIs using Dio & Retrofit.
+  </li>
+  <li>
+    🔄 <b>State Management:</b>
+    Used Cubit to manage subjects, exams, questions, results, and history.
+  </li>
+  <li>
+    💉 <b>Dependency Injection:</b>
+    Used GetIt & Injectable for dependency management.
+  </li>
+  <li>
+    ⏱️ <b>Exam Flow:</b>
+    Implemented timed exams with question navigation and answer selection.
+  </li>
+  <li>
+    💾 <b>Local Storage:</b>
+    Used Hive to save exam questions and user answers.
+  </li>
+  <li>
+    📊 <b>Results & History:</b>
+    Implemented answer checking, scoring, results, and exam history.
+  </li>
+  <li>
+    🔐 <b>Authentication:</b>
+    Handled token-based authentication and protected API requests.
+  </li>
+</ul>
 
-- 🏗️ **Architecture:** Implemented Clean Architecture with Domain, Data, and Presentation layers.
-- 🌐 **API Integration:** Integrated exam APIs using Dio & Retrofit.
-- 🔄 **State Management:** Used Cubit to manage subjects, exams, questions, results, and history.
-- 💉 **Dependency Injection:** Implemented GetIt & Injectable for dependency management.
-- ⏱️ **Exam Flow:** Built timed exams with question navigation and answer selection.
-- 💾 **Local Storage:** Used Hive to save exam questions and user answers.
-- 📊 **Results & History:** Implemented answer checking, scoring, results, and exam history.
-- 🔐 **Authentication:** Handled user authentication and token-based API requests.
+<h4>🛠️ Tech Stack</h4>
 
-**🛠️ Tech Stack**
+<p>
+  <img src="https://img.shields.io/badge/FLUTTER-02569B?style=flat-square&logo=flutter&logoColor=white">
+  <img src="https://img.shields.io/badge/DART-0175C2?style=flat-square&logo=dart&logoColor=white">
+  <img src="https://img.shields.io/badge/BLOC-0175C2?style=flat-square">
+  <img src="https://img.shields.io/badge/DIO-0175C2?style=flat-square">
+  <img src="https://img.shields.io/badge/RETROFIT-000000?style=flat-square">
+  <img src="https://img.shields.io/badge/HIVE-FFCA28?style=flat-square">
+  <img src="https://img.shields.io/badge/GETIT-6C63FF?style=flat-square">
+  <img src="https://img.shields.io/badge/CLEAN_ARCHITECTURE-000000?style=flat-square">
+</p>
 
-`Flutter` `Dart` `BLoC/Cubit` `Dio` `Retrofit` `Hive` `GetIt` `Clean Architecture`
-
-</td>
-</tr>
-</table>
+<hr>
 
 ## 📊 GitHub Stats
 
