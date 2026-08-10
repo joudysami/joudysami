@@ -42,6 +42,8 @@ Building clean, scalable, and user-friendly mobile applications with Flutter & D
   <img src="https://img.shields.io/badge/Clean%20Architecture-000000?style=for-the-badge" />
   <img src="https://img.shields.io/badge/BLoC-0175C2?style=for-the-badge" />
   <img src="https://img.shields.io/badge/MVVM-6C63FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/MVI-FF6F00?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Testing-25A162?style=for-the-badge" />
 </p>
 
 ### Secondary Technology Stack
@@ -192,6 +194,18 @@ Building clean, scalable, and user-friendly mobile applications with Flutter & D
 </div>
 
 ---
+<h2>📈 Contribution Graph</h2>
+
+<div align="center">
+
+<img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=joudysami&theme=react-dark&custom_title=Joudy%20Sami's%20Contribution%20Graph&area=true&hide_border=true"
+  alt="Joudy Sami's Contribution Graph"
+/>
+
+</div>
+
+---
 
 ## 🎯 2026 Goals
 
@@ -208,10 +222,16 @@ Building clean, scalable, and user-friendly mobile applications with Flutter & D
 ## 🤝 Let's Connect
 
 I'm always interested in learning, building projects, and connecting with other developers.
-
 <div align="center">
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/joudysami)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
+
+<a href="https://github.com/joudysami">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="https://www.linkedin.com/in/joudy-sami-a947b5330/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
 </div>
 
 ---
