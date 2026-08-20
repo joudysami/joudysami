@@ -14,7 +14,10 @@ Building clean, scalable, and user-friendly mobile applications with Flutter & D
 
 </div>
 
----
+<!-- Decorative divider -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+</div>
 
 ## 🧭 Languages & Tools
 
@@ -31,11 +34,15 @@ Building clean, scalable, and user-friendly mobile applications with Flutter & D
   <img alt="VSCode" src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
 </p>
 
----
+<!-- Decorative divider -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+</div>
 
 ## 🧩 Technology Stack
 
 ### Primary Technology Stack
+
 <p>
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
@@ -47,6 +54,7 @@ Building clean, scalable, and user-friendly mobile applications with Flutter & D
 </p>
 
 ### Secondary Technology Stack
+
 <p>
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
   <img src="https://img.shields.io/badge/REST%20API-FF6F00?style=for-the-badge" />
@@ -56,16 +64,19 @@ Building clean, scalable, and user-friendly mobile applications with Flutter & D
 </p>
 
 ### Tertiary Technology Stack
+
 <p>
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
   <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" />
   <img src="https://img.shields.io/badge/SharedPreferences-02569B?style=for-the-badge" />
 </p>
 
----
-<h2>📌 Featured Projects</h2>
+<!-- Decorative divider -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+</div>
 
-<hr>
+<h2>📌 Featured Projects</h2>
 
 <h3>📰 News App</h3>
 
@@ -115,7 +126,10 @@ Building clean, scalable, and user-friendly mobile applications with Flutter & D
   <img src="https://img.shields.io/badge/CLEAN_ARCHITECTURE-000000?style=flat-square">
 </p>
 
-<hr>
+<!-- Decorative divider -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+</div>
 
 <h3>📝 Online Exam App</h3>
 
@@ -175,53 +189,56 @@ Building clean, scalable, and user-friendly mobile applications with Flutter & D
   <img src="https://img.shields.io/badge/CLEAN_ARCHITECTURE-000000?style=flat-square">
 </p>
 
-<hr>
+<!-- Decorative divider -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+</div>
 
 ## 📊 GitHub Stats
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=joudysami&show_icons=true&theme=tokyonight&hide_border=true" alt="Joudy GitHub stats" />
-
-<br><br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=joudysami&theme=tokyonight&hide_border=true" alt="Joudy GitHub Streak" />
-
-<br><br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joudysami&layout=compact&theme=tokyonight&hide_border=true" alt="Joudy Top Languages" />
-
+  <img height="190" src="https://github-readme-stats-hadi.vercel.app/api?username=joudysami&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&card_width=460" />
+  <img height="195" src="https://github-readme-stats-hadi.vercel.app/api/top-langs/?username=joudysami&langs_count=8&count_private=true&layout=compact&theme=tokyonight&hide_border=true&card_width=390" />
 </div>
 
----
-<h2>📈 Contribution Graph</h2>
-
+<!-- Decorative divider -->
 <div align="center">
-
-<img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=joudysami&theme=react-dark&custom_title=Joudy%20Sami's%20Contribution%20Graph&area=true&hide_border=true"
-  alt="Joudy Sami's Contribution Graph"
-/>
-
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 </div>
 
----
+## 🔥 GitHub Streak
 
-## 🎯 2026 Goals
+<p align="center">
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=joudysami&theme=tokyonight&hide_border=true"
+    height="180"
+    alt="Joudy Sami GitHub Streak"
+  />
+</p>
 
-- 🚀 Become a stronger Flutter Developer
-- 🧱 Build production-ready Flutter applications
-- 🧪 Improve unit & integration testing
-- 🏗️ Master Clean Architecture and scalable project structures
-- 🌐 Improve backend & API integration skills
-- 💼 Contribute to real-world projects
-- 📚 Keep learning and building
+<!-- Decorative divider -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+</div>
 
----
+<h2 align="center">📈 Contribution Activity</h2>
+
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=joudysami&bg_color=0D1117&color=70A5FD&line=70A5FD&point=FFFFFF&area=true&hide_border=true"
+    alt="Joudy Sami Contribution Graph"
+  />
+</p>
+
+<!-- Decorative divider -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+</div>
 
 ## 🤝 Let's Connect
 
 I'm always interested in learning, building projects, and connecting with other developers.
+
 <div align="center">
 
 <a href="https://github.com/joudysami">
@@ -234,6 +251,9 @@ I'm always interested in learning, building projects, and connecting with other 
 
 </div>
 
----
+<!-- Decorative divider -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+</div>
 
 ### ⭐ Thanks for visiting my profile!
