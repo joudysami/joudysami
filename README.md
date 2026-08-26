@@ -16,7 +16,7 @@ Building clean, scalable, and user-friendly mobile applications with Flutter & D
 
 <!-- Decorative divider -->
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="decorative" style="max-width:100%;height:auto;" />
 </div>
 
 ## 🧭 Languages & Tools
@@ -36,7 +36,7 @@ Building clean, scalable, and user-friendly mobile applications with Flutter & D
 
 <!-- Decorative divider -->
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="decorative" style="max-width:100%;height:auto;" />
 </div>
 
 ## 🧩 Technology Stack
@@ -44,36 +44,36 @@ Building clean, scalable, and user-friendly mobile applications with Flutter & D
 ### Primary Technology Stack
 
 <p>
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
-  <img src="https://img.shields.io/badge/Clean%20Architecture-000000?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/BLoC-0175C2?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/MVVM-6C63FF?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/MVI-FF6F00?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Testing-25A162?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
+  <img src="https://img.shields.io/badge/Clean%20Architecture-000000?style=for-the-badge" alt="Clean Architecture" />
+  <img src="https://img.shields.io/badge/BLoC-0175C2?style=for-the-badge" alt="BLoC" />
+  <img src="https://img.shields.io/badge/MVVM-6C63FF?style=for-the-badge" alt="MVVM" />
+  <img src="https://img.shields.io/badge/MVI-FF6F00?style=for-the-badge" alt="MVI" />
+  <img src="https://img.shields.io/badge/Testing-25A162?style=for-the-badge" alt="Testing" />
 </p>
 
 ### Secondary Technology Stack
 
 <p>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-  <img src="https://img.shields.io/badge/REST%20API-FF6F00?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Dio-0175C2?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Retrofit-000000?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Hive-FFCA28?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
+  <img src="https://img.shields.io/badge/REST%20API-FF6F00?style=for-the-badge" alt="REST API" />
+  <img src="https://img.shields.io/badge/Dio-0175C2?style=for-the-badge" alt="Dio" />
+  <img src="https://img.shields.io/badge/Retrofit-000000?style=for-the-badge" alt="Retrofit" />
+  <img src="https://img.shields.io/badge/Hive-FFCA28?style=for-the-badge" alt="Hive" />
 </p>
 
 ### Tertiary Technology Stack
 
 <p>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" />
-  <img src="https://img.shields.io/badge/SharedPreferences-02569B?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
+  <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" alt="Android Studio" />
+  <img src="https://img.shields.io/badge/SharedPreferences-02569B?style=for-the-badge" alt="SharedPreferences" />
 </p>
 
 <!-- Decorative divider -->
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="decorative" style="max-width:100%;height:auto;" />
 </div>
 
 <h2>📌 Featured Projects</h2>
@@ -117,18 +117,18 @@ Building clean, scalable, and user-friendly mobile applications with Flutter & D
 <h4>🛠️ Tech Stack</h4>
 
 <p>
-  <img src="https://img.shields.io/badge/FLUTTER-02569B?style=flat-square&logo=flutter&logoColor=white">
-  <img src="https://img.shields.io/badge/DART-0175C2?style=flat-square&logo=dart&logoColor=white">
-  <img src="https://img.shields.io/badge/BLOC-0175C2?style=flat-square">
-  <img src="https://img.shields.io/badge/DIO-0175C2?style=flat-square">
-  <img src="https://img.shields.io/badge/HIVE-FFCA28?style=flat-square">
-  <img src="https://img.shields.io/badge/GETIT-6C63FF?style=flat-square">
-  <img src="https://img.shields.io/badge/CLEAN_ARCHITECTURE-000000?style=flat-square">
+  <img src="https://img.shields.io/badge/FLUTTER-02569B?style=flat-square&logo=flutter&logoColor=white" alt="FLUTTER">
+  <img src="https://img.shields.io/badge/DART-0175C2?style=flat-square&logo=dart&logoColor=white" alt="DART">
+  <img src="https://img.shields.io/badge/BLOC-0175C2?style=flat-square" alt="BLOC">
+  <img src="https://img.shields.io/badge/DIO-0175C2?style=flat-square" alt="DIO">
+  <img src="https://img.shields.io/badge/HIVE-FFCA28?style=flat-square" alt="HIVE">
+  <img src="https://img.shields.io/badge/GETIT-6C63FF?style=flat-square" alt="GETIT">
+  <img src="https://img.shields.io/badge/CLEAN_ARCHITECTURE-000000?style=flat-square" alt="CLEAN_ARCHITECTURE">
 </p>
 
 <!-- Decorative divider -->
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="decorative" style="max-width:100%;height:auto;" />
 </div>
 
 <h3>📝 Online Exam App</h3>
@@ -179,60 +179,46 @@ Building clean, scalable, and user-friendly mobile applications with Flutter & D
 <h4>🛠️ Tech Stack</h4>
 
 <p>
-  <img src="https://img.shields.io/badge/FLUTTER-02569B?style=flat-square&logo=flutter&logoColor=white">
-  <img src="https://img.shields.io/badge/DART-0175C2?style=flat-square&logo=dart&logoColor=white">
-  <img src="https://img.shields.io/badge/BLOC-0175C2?style=flat-square">
-  <img src="https://img.shields.io/badge/DIO-0175C2?style=flat-square">
-  <img src="https://img.shields.io/badge/RETROFIT-000000?style=flat-square">
-  <img src="https://img.shields.io/badge/HIVE-FFCA28?style=flat-square">
-  <img src="https://img.shields.io/badge/GETIT-6C63FF?style=flat-square">
-  <img src="https://img.shields.io/badge/CLEAN_ARCHITECTURE-000000?style=flat-square">
+  <img src="https://img.shields.io/badge/FLUTTER-02569B?style=flat-square&logo=flutter&logoColor=white" alt="FLUTTER">
+  <img src="https://img.shields.io/badge/DART-0175C2?style=flat-square&logo=dart&logoColor=white" alt="DART">
+  <img src="https://img.shields.io/badge/BLOC-0175C2?style=flat-square" alt="BLOC">
+  <img src="https://img.shields.io/badge/DIO-0175C2?style=flat-square" alt="DIO">
+  <img src="https://img.shields.io/badge/RETROFIT-000000?style=flat-square" alt="RETROFIT">
+  <img src="https://img.shields.io/badge/HIVE-FFCA28?style=flat-square" alt="HIVE">
+  <img src="https://img.shields.io/badge/GETIT-6C63FF?style=flat-square" alt="GETIT">
+  <img src="https://img.shields.io/badge/CLEAN_ARCHITECTURE-000000?style=flat-square" alt="CLEAN_ARCHITECTURE">
 </p>
 
 <!-- Decorative divider -->
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="decorative" style="max-width:100%;height:auto;" />
 </div>
 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="190" src="https://github-readme-stats-hadi.vercel.app/api?username=joudysami&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&card_width=460" />
-  <img height="195" src="https://github-readme-stats-hadi.vercel.app/api/top-langs/?username=joudysami&langs_count=8&count_private=true&layout=compact&theme=tokyonight&hide_border=true&card_width=390" />
-</div>
-
-<!-- Decorative divider -->
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+  <!-- Two stat cards side-by-side, responsive -->
+  <p align="center" style="display:flex;flex-wrap:wrap;gap:12px;justify-content:center;align-items:center;margin:0;">
+    <img src="https://github-readme-stats-hadi.vercel.app/api?username=joudysami&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&card_width=460" alt="GitHub Stats" style="max-width:460px;width:100%;height:auto;" />
+    <img src="https://github-readme-stats-hadi.vercel.app/api/top-langs/?username=joudysami&langs_count=8&count_private=true&layout=compact&theme=tokyonight&hide_border=true&card_width=390" alt="Top Languages" style="max-width:390px;width:100%;height:auto;" />
+  </p>
 </div>
 
 ## 🔥 GitHub Streak
 
-<p align="center">
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=joudysami&theme=tokyonight&hide_border=true"
-    height="180"
-    alt="Joudy Sami GitHub Streak"
-  />
-</p>
-
-<!-- Decorative divider -->
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=joudysami&theme=tokyonight&hide_border=true" alt="Joudy Sami GitHub Streak" style="max-width:720px;width:100%;height:auto;" />
 </div>
 
-<h2 align="center">📈 Contribution Activity</h2>
+## 📈 Contribution Activity
 
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=joudysami&bg_color=0D1117&color=70A5FD&line=70A5FD&point=FFFFFF&area=true&hide_border=true"
-    alt="Joudy Sami Contribution Graph"
-  />
-</p>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=joudysami&bg_color=0D1117&color=70A5FD&line=70A5FD&point=FFFFFF&area=true&hide_border=true" alt="Joudy Sami Contribution Graph" style="max-width:900px;width:100%;height:auto;" />
+</div>
 
 <!-- Decorative divider -->
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="decorative" style="max-width:100%;height:auto;" />
 </div>
 
 ## 🤝 Let's Connect
@@ -242,18 +228,18 @@ I'm always interested in learning, building projects, and connecting with other 
 <div align="center">
 
 <a href="https://github.com/joudysami">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
 
 <a href="https://www.linkedin.com/in/joudy-sami-a947b5330/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 
 </div>
 
 <!-- Decorative divider -->
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="decorative" style="max-width:100%;height:auto;" />
 </div>
 
 ### ⭐ Thanks for visiting my profile!
