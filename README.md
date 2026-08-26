@@ -6,15 +6,13 @@
 
 Building clean, scalable, and user-friendly mobile applications with Flutter & Dart.
 
-<br>
-
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/joudysami)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joudy-sami-a947b5330/)
 [![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://flutter.dev/)
 
 </div>
 
-<!-- Decorative divider -->
+<!-- Decorative divider (kept minimal) -->
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="decorative" style="max-width:100%;height:auto;" />
 </div>
@@ -33,11 +31,6 @@ Building clean, scalable, and user-friendly mobile applications with Flutter & D
   <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   <img alt="VSCode" src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
 </p>
-
-<!-- Decorative divider -->
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="decorative" style="max-width:100%;height:auto;" />
-</div>
 
 ## 🧩 Technology Stack
 
@@ -71,50 +64,24 @@ Building clean, scalable, and user-friendly mobile applications with Flutter & D
   <img src="https://img.shields.io/badge/SharedPreferences-02569B?style=for-the-badge" alt="SharedPreferences" />
 </p>
 
-<!-- Decorative divider -->
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="decorative" style="max-width:100%;height:auto;" />
-</div>
+<!-- Reduced decorative dividers to avoid clutter -->
 
-<h2>📌 Featured Projects</h2>
+## 📌 Featured Projects
 
-<h3>📰 News App</h3>
+### 📰 News App
 
-<p>
-  A Flutter news application built with a scalable Clean Architecture,
-  REST API integration, and local data persistence.
-</p>
+A Flutter news application built with a scalable Clean Architecture, REST API integration, and local data persistence.
 
-<h4>✨ Key Contributions</h4>
+#### ✨ Key Contributions
 
-<ul>
-  <li>
-    🏗️ <b>Architecture:</b>
-    Implemented Clean Architecture with Domain, Data, and Presentation layers.
-  </li>
-  <li>
-    🌐 <b>Networking:</b>
-    Integrated REST APIs using Dio with structured error handling.
-  </li>
-  <li>
-    🔄 <b>State Management:</b>
-    Used Cubit to manage loading, success, and error states.
-  </li>
-  <li>
-    💉 <b>Dependency Injection:</b>
-    Implemented GetIt & Injectable for scalable dependency management.
-  </li>
-  <li>
-    💾 <b>Local Storage:</b>
-    Used Hive and SharedPreferences for local data persistence.
-  </li>
-  <li>
-    📱 <b>UI:</b>
-    Built responsive and reusable Flutter components.
-  </li>
-</ul>
+- 🏗️ **Architecture:** Implemented Clean Architecture with Domain, Data, and Presentation layers.
+- 🌐 **Networking:** Integrated REST APIs using Dio with structured error handling.
+- 🔄 **State Management:** Used Cubit to manage loading, success, and error states.
+- 💉 **Dependency Injection:** Implemented GetIt & Injectable for scalable dependency management.
+- 💾 **Local Storage:** Used Hive and SharedPreferences for local data persistence.
+- 📱 **UI:** Built responsive and reusable Flutter components.
 
-<h4>🛠️ Tech Stack</h4>
+#### 🛠️ Tech Stack
 
 <p>
   <img src="https://img.shields.io/badge/FLUTTER-02569B?style=flat-square&logo=flutter&logoColor=white" alt="FLUTTER">
@@ -126,57 +93,22 @@ Building clean, scalable, and user-friendly mobile applications with Flutter & D
   <img src="https://img.shields.io/badge/CLEAN_ARCHITECTURE-000000?style=flat-square" alt="CLEAN_ARCHITECTURE">
 </p>
 
-<!-- Decorative divider -->
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="decorative" style="max-width:100%;height:auto;" />
-</div>
+### 📝 Online Exam App
 
-<h3>📝 Online Exam App</h3>
+A feature-rich Flutter application for taking online exams, managing questions and answers, submitting exams, and displaying results and history.
 
-<p>
-  A feature-rich Flutter application for taking online exams,
-  managing questions and answers, submitting exams, and displaying
-  results and history.
-</p>
+#### ✨ Key Contributions
 
-<h4>✨ Key Contributions</h4>
+- 🏗️ **Architecture:** Implemented Clean Architecture with Domain, Data, and Presentation layers.
+- 🌐 **API Integration:** Integrated exam APIs using Dio & Retrofit.
+- 🔄 **State Management:** Used Cubit to manage subjects, exams, questions, results, and history.
+- 💉 **Dependency Injection:** Used GetIt & Injectable for dependency management.
+- ⏱️ **Exam Flow:** Implemented timed exams with question navigation and answer selection.
+- 💾 **Local Storage:** Used Hive to save exam questions and user answers.
+- 📊 **Results & History:** Implemented answer checking, scoring, results, and exam history.
+- 🔐 **Authentication:** Handled token-based authentication and protected API requests.
 
-<ul>
-  <li>
-    🏗️ <b>Architecture:</b>
-    Implemented Clean Architecture with Domain, Data, and Presentation layers.
-  </li>
-  <li>
-    🌐 <b>API Integration:</b>
-    Integrated exam APIs using Dio & Retrofit.
-  </li>
-  <li>
-    🔄 <b>State Management:</b>
-    Used Cubit to manage subjects, exams, questions, results, and history.
-  </li>
-  <li>
-    💉 <b>Dependency Injection:</b>
-    Used GetIt & Injectable for dependency management.
-  </li>
-  <li>
-    ⏱️ <b>Exam Flow:</b>
-    Implemented timed exams with question navigation and answer selection.
-  </li>
-  <li>
-    💾 <b>Local Storage:</b>
-    Used Hive to save exam questions and user answers.
-  </li>
-  <li>
-    📊 <b>Results & History:</b>
-    Implemented answer checking, scoring, results, and exam history.
-  </li>
-  <li>
-    🔐 <b>Authentication:</b>
-    Handled token-based authentication and protected API requests.
-  </li>
-</ul>
-
-<h4>🛠️ Tech Stack</h4>
+#### 🛠️ Tech Stack
 
 <p>
   <img src="https://img.shields.io/badge/FLUTTER-02569B?style=flat-square&logo=flutter&logoColor=white" alt="FLUTTER">
@@ -189,57 +121,41 @@ Building clean, scalable, and user-friendly mobile applications with Flutter & D
   <img src="https://img.shields.io/badge/CLEAN_ARCHITECTURE-000000?style=flat-square" alt="CLEAN_ARCHITECTURE">
 </p>
 
-<!-- Decorative divider -->
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="decorative" style="max-width:100%;height:auto;" />
-</div>
-
 ## 📊 GitHub Stats
 
-<div align="center">
-  <!-- Two stat cards side-by-side, responsive -->
-  <p align="center" style="display:flex;flex-wrap:wrap;gap:12px;justify-content:center;align-items:center;margin:0;">
-    <img src="https://github-readme-stats-hadi.vercel.app/api?username=joudysami&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&card_width=460" alt="GitHub Stats" style="max-width:460px;width:100%;height:auto;" />
-    <img src="https://github-readme-stats-hadi.vercel.app/api/top-langs/?username=joudysami&langs_count=8&count_private=true&layout=compact&theme=tokyonight&hide_border=true&card_width=390" alt="Top Languages" style="max-width:390px;width:100%;height:auto;" />
-  </p>
+<div align="center" style="margin:6px 0 18px 0">
+  <div style="display:flex;flex-wrap:wrap;gap:12px;justify-content:center;align-items:center;max-width:820px">
+    <img src="https://github-readme-stats-hadi.vercel.app/api?username=joudysami&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&card_width=420" alt="GitHub Stats" style="max-width:420px;width:100%;height:auto;" />
+    <img src="https://github-readme-stats-hadi.vercel.app/api/top-langs/?username=joudysami&langs_count=8&count_private=true&layout=compact&theme=tokyonight&hide_border=true&card_width=360" alt="Top Languages" style="max-width:360px;width:100%;height:auto;" />
+  </div>
 </div>
 
 ## 🔥 GitHub Streak
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=joudysami&theme=tokyonight&hide_border=true" alt="Joudy Sami GitHub Streak" style="max-width:720px;width:100%;height:auto;" />
+<div align="center" style="margin:6px 0 18px 0">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=joudysami&theme=tokyonight&hide_border=true" alt="Joudy Sami GitHub Streak" style="max-width:600px;width:100%;height:auto;" />
 </div>
 
 ## 📈 Contribution Activity
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=joudysami&bg_color=0D1117&color=70A5FD&line=70A5FD&point=FFFFFF&area=true&hide_border=true" alt="Joudy Sami Contribution Graph" style="max-width:900px;width:100%;height:auto;" />
-</div>
-
-<!-- Decorative divider -->
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="decorative" style="max-width:100%;height:auto;" />
+<div align="center" style="margin:6px 0 18px 0">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=joudysami&bg_color=0D1117&color=70A5FD&line=70A5FD&point=FFFFFF&area=true&hide_border=true" alt="Joudy Sami Contribution Graph" style="max-width:820px;width:100%;height:auto;" />
 </div>
 
 ## 🤝 Let's Connect
 
 I'm always interested in learning, building projects, and connecting with other developers.
 
-<div align="center">
+<div align="center" style="margin-top:12px;margin-bottom:12px">
 
-<a href="https://github.com/joudysami">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</a>
+  <a href="https://github.com/joudysami">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
 
-<a href="https://www.linkedin.com/in/joudy-sami-a947b5330/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
+  <a href="https://www.linkedin.com/in/joudy-sami-a947b5330/" style="margin-left:8px">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
 
-</div>
-
-<!-- Decorative divider -->
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="decorative" style="max-width:100%;height:auto;" />
 </div>
 
 ### ⭐ Thanks for visiting my profile!
