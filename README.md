@@ -12,7 +12,7 @@ Building clean, scalable, and user-friendly mobile applications with Flutter & D
 
 </div>
 
-<!-- Decorative divider (kept minimal) -->
+<!-- Decorative divider -->
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="decorative" style="max-width:100%;height:auto;" />
 </div>
@@ -36,7 +36,7 @@ Building clean, scalable, and user-friendly mobile applications with Flutter & D
 
 ### Primary Technology Stack
 
-<p>
+<p style="margin: 12px 0;">
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
   <img src="https://img.shields.io/badge/Clean%20Architecture-000000?style=for-the-badge" alt="Clean Architecture" />
@@ -48,7 +48,7 @@ Building clean, scalable, and user-friendly mobile applications with Flutter & D
 
 ### Secondary Technology Stack
 
-<p>
+<p style="margin: 12px 0;">
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
   <img src="https://img.shields.io/badge/REST%20API-FF6F00?style=for-the-badge" alt="REST API" />
   <img src="https://img.shields.io/badge/Dio-0175C2?style=for-the-badge" alt="Dio" />
@@ -58,13 +58,11 @@ Building clean, scalable, and user-friendly mobile applications with Flutter & D
 
 ### Tertiary Technology Stack
 
-<p>
+<p style="margin: 12px 0;">
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
   <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" alt="Android Studio" />
   <img src="https://img.shields.io/badge/SharedPreferences-02569B?style=for-the-badge" alt="SharedPreferences" />
 </p>
-
-<!-- Reduced decorative dividers to avoid clutter -->
 
 ## 📌 Featured Projects
 
@@ -83,7 +81,7 @@ A Flutter news application built with a scalable Clean Architecture, REST API in
 
 #### 🛠️ Tech Stack
 
-<p>
+<p style="margin: 12px 0;">
   <img src="https://img.shields.io/badge/FLUTTER-02569B?style=flat-square&logo=flutter&logoColor=white" alt="FLUTTER">
   <img src="https://img.shields.io/badge/DART-0175C2?style=flat-square&logo=dart&logoColor=white" alt="DART">
   <img src="https://img.shields.io/badge/BLOC-0175C2?style=flat-square" alt="BLOC">
@@ -110,7 +108,7 @@ A feature-rich Flutter application for taking online exams, managing questions a
 
 #### 🛠️ Tech Stack
 
-<p>
+<p style="margin: 12px 0;">
   <img src="https://img.shields.io/badge/FLUTTER-02569B?style=flat-square&logo=flutter&logoColor=white" alt="FLUTTER">
   <img src="https://img.shields.io/badge/DART-0175C2?style=flat-square&logo=dart&logoColor=white" alt="DART">
   <img src="https://img.shields.io/badge/BLOC-0175C2?style=flat-square" alt="BLOC">
@@ -123,39 +121,36 @@ A feature-rich Flutter application for taking online exams, managing questions a
 
 ## 📊 GitHub Stats
 
-<div align="center" style="margin:6px 0 18px 0">
-  <div style="display:flex;flex-wrap:wrap;gap:12px;justify-content:center;align-items:center;max-width:820px">
-    <img src="https://github-readme-stats-hadi.vercel.app/api?username=joudysami&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&card_width=420" alt="GitHub Stats" style="max-width:420px;width:100%;height:auto;" />
-    <img src="https://github-readme-stats-hadi.vercel.app/api/top-langs/?username=joudysami&langs_count=8&count_private=true&layout=compact&theme=tokyonight&hide_border=true&card_width=360" alt="Top Languages" style="max-width:360px;width:100%;height:auto;" />
+<div align="center" style="margin: 24px 0;">
+  <div style="display:flex;flex-wrap:wrap;gap:12px;justify-content:center;align-items:center;max-width:820px;">
+    <img src="https://github-readme-stats-hadi.vercel.app/api?username=joudysami&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&card_width=420" alt="GitHub Stats" style="max-width:100%;height:auto;" />
+    <img src="https://github-readme-stats-hadi.vercel.app/api/top-langs/?username=joudysami&langs_count=8&count_private=true&layout=compact&theme=tokyonight&hide_border=true&card_width=360" alt="Top Languages" style="max-width:100%;height:auto;" />
   </div>
 </div>
 
 ## 🔥 GitHub Streak
 
-<div align="center" style="margin:6px 0 18px 0">
+<div align="center" style="margin: 24px 0;">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=joudysami&theme=tokyonight&hide_border=true" alt="Joudy Sami GitHub Streak" style="max-width:600px;width:100%;height:auto;" />
 </div>
 
 ## 📈 Contribution Activity
 
-<div align="center" style="margin:6px 0 18px 0">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=joudysami&bg_color=0D1117&color=70A5FD&line=70A5FD&point=FFFFFF&area=true&hide_border=true" alt="Joudy Sami Contribution Graph" style="max-width:820px;width:100%;height:auto;" />
+<div align="center" style="margin: 24px 0;">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=joudysami&bg_color=0D1117&color=70A5FD&line=70A5FD&point=FFFFFF&area=true&hide_border=true" alt="Joudy Sami Contribution Graph" style="max-width:100%;width:100%;height:auto;" />
 </div>
 
 ## 🤝 Let's Connect
 
 I'm always interested in learning, building projects, and connecting with other developers.
 
-<div align="center" style="margin-top:12px;margin-bottom:12px">
-
+<div align="center" style="margin: 24px 0;">
   <a href="https://github.com/joudysami">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-
-  <a href="https://www.linkedin.com/in/joudy-sami-a947b5330/" style="margin-left:8px">
+  <a href="https://www.linkedin.com/in/joudy-sami-a947b5330/" style="margin-left:8px;">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-
 </div>
 
 ### ⭐ Thanks for visiting my profile!
