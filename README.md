@@ -123,8 +123,8 @@ A feature-rich Flutter application for taking online exams, managing questions a
 
 <div align="center" style="margin: 24px 0;">
   <div style="display:flex;flex-wrap:wrap;gap:12px;justify-content:center;align-items:center;max-width:820px;">
-    <img src="https://github-readme-stats-hadi.vercel.app/api?username=joudysami&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&card_width=420" alt="GitHub Stats" style="max-width:420px;width:100%;height:auto;" />
-    <img src="https://github-readme-stats-hadi.vercel.app/api/top-langs/?username=joudysami&langs_count=8&count_private=true&layout=compact&theme=tokyonight&hide_border=true&card_width=360" alt="Top Languages" style="max-width:360px;width:100%;height:auto;" />
+    <img src="https://github-readme-stats-hadi.vercel.app/api?username=joudysami&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&card_width=420" alt="GitHub Stats" style="max-width:100%;height:auto;" />
+    <img src="https://github-readme-stats-hadi.vercel.app/api/top-langs/?username=joudysami&langs_count=8&count_private=true&layout=compact&theme=tokyonight&hide_border=true&card_width=360" alt="Top Languages" style="max-width:100%;height:auto;" />
   </div>
 </div>
 
@@ -137,7 +137,7 @@ A feature-rich Flutter application for taking online exams, managing questions a
 ## 📈 Contribution Activity
 
 <div align="center" style="margin: 24px 0;">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=joudysami&bg_color=0D1117&color=70A5FD&line=70A5FD&point=FFFFFF&area=true&hide_border=true" alt="Joudy Sami Contribution Graph" style="max-width:600px;width:100%;height:auto;" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=joudysami&bg_color=0D1117&color=70A5FD&line=70A5FD&point=FFFFFF&area=true&hide_border=true" alt="Joudy Sami Contribution Graph" style="max-width:100%;width:100%;height:auto;" />
 </div>
 
 ## 🤝 Let's Connect
